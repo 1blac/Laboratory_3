@@ -1,0 +1,2 @@
+D:\ООП\Лабораторні 3\Laboratory_3.2\Debug\Laboratory_3.2.exe
+D:\ООП\Лабораторні 3\Laboratory_3.2\Debug\Laboratory_3.2.pdb
